@@ -1,6 +1,6 @@
 # Seat Booking System
 
-A basic seat booking system for a movie theatre created using javaFX.
+A simple seat booking system for a movie theatre created using javaFX.
 
 
 <b>Download Link(JDK 11 or higher is required!):</b>
